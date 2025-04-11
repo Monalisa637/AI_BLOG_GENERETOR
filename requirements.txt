@@ -105,7 +105,7 @@ numba==0.60.0
 numpy==1.24.3
 oauthlib==3.2.2
 openai==1.35.8
-openai-whisper @ git+https://github.com/openai/whisper.git@ba3f3cd54b0e5b8ce1ab3de13e32122d0d5f98ab
+openai-whisper==20230314
 opencv-contrib-python==4.7.0.72
 opencv-python==4.7.0.72
 opt-einsum==3.3.0
